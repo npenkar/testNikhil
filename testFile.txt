@@ -5,3 +5,5 @@ This is the test file to commit on git.
 This line is committed in second commit.
 
 Line from commit from git
+
+One more line from txt edit
